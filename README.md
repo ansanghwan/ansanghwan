@@ -2,8 +2,8 @@
 
 Frontend Developer · UI Markup · Responsive UI
 
-I build reliable, responsive UIs with a strong focus on web publishing, accessibility, and cross‑browser quality.
-I value clean structure, consistent delivery, and detail‑oriented execution.
+I build reliable, responsive UIs with a strong focus on web publishing, accessibility, and cross‑browser quality.<br/>
+I value clean structure, consistent delivery, and detail‑oriented execution.<br/>
 Growing into frontend engineering through continuous learning and micro projects.
 
 ## Highlights
