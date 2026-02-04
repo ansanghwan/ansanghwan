@@ -25,7 +25,7 @@ Growing into frontend engineering through continuous learning and micro projects
 A personal lab to practice and document React skills through hands‑on micro projects.
 Live: https://sanghwan-mini-project.netlify.app/
 
-## Tech Stack (Icons)
+## Tech Stack
 
 <div style="display:inline_block">
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
